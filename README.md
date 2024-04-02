@@ -17,4 +17,4 @@
 ### Redes Sociais! 
  
 <div> 
-    <a href="https://instagram.com/Sch4k" target="_blank"><img src="https://www.instagram.com/kaua_o_schak?igsh=N2s3ZDQ5b2U2cmMw" target="_blank"></a>
+    <a href="https://instagram.com/Sch4k" target="_blank"><img src="https://www.instagram.com/kaua_o_schak" target="_blank"></a>
